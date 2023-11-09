@@ -1,0 +1,39 @@
+SM
+1PGB
+MTYKLILNGKTLKGETTTEAVDAATAEKVFKQYANDNGVDGEWTYDDATKTFTVTE
+
+
+0
+0
+200_000
+0
+0.0013
+0.0
+0.0
+1
+0
+20_000
+results
+1
+2
+4.
+
+	>> simtype
+	>> protein_name
+	>> wt_sequence
+	>> ref_sequence
+	>> starting_sequence
+	>> casual_ref
+	>> casual_start
+	>> metr_mutations
+	>> eq_mutations
+	>> T
+	>> gamma_i
+	>> gamma_f
+	>> num_gammas
+	>> seed
+	>> unique_length
+	>> results_dir
+	>> restart_bool
+	>> device
+	>> distance_threshold

@@ -1,0 +1,13 @@
+1PGB
+0.0171
+0.0
+20_000
+20_000
+results
+
+	>> protein_name
+	>> T
+	>> gamma
+	>> discarded_mutations
+	>> block_size
+	>> results_d

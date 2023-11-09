@@ -1,0 +1,3 @@
+Protein name:     1PGB
+Protein sequence: MTYKLILNGKTLKGETTTEAVDAATAEKVFKQYANDNGVDGEWTYDDATKTFTVTE
+Protein length:   56

@@ -1,0 +1,11 @@
+../../results/backup
+0
+1000
+2
+4
+
+	>> results_dir
+	>> mt_sims
+	>> mt_num
+	>> device
+	>> distance_threshold

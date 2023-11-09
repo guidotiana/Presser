@@ -1,0 +1,15 @@
+1PGB-R3
+0.0032
+0
+../RestrainedMetropolis/results
+15_000
+3.0
+0
+
+	>> protein_name
+	>> T
+	>> s
+	>> inputs_dir
+	>> discarded_mutations
+	>> gamma_min
+	>> const_step

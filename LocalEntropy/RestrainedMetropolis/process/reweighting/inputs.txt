@@ -1,0 +1,19 @@
+1
+../../results
+results
+2
+0.0
+0.005
+0.00048
+0.00005
+400
+
+	>> clean
+	>> raw_data_directory
+	>> cleaned_data_directory
+	>> ob_idx
+	>> emin
+	>> ebin
+	>> tmin
+	>> tbin
+	>> ntbin

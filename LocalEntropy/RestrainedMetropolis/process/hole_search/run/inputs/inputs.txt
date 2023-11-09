@@ -1,0 +1,27 @@
+1PGB
+0.0171
+0.0
+Hamm
+0.0
+1
+1
+10_000
+inputs
+../results
+pdf
+MTYKLILNGKTLKGETTTEAVDAATAEKVFKQYANDNGVDGEWTYDDATKTFTVTE
+20
+
+	>> protein_name
+	>> T
+	>> gamma
+	>> dtype
+	>> prec
+	>> step
+	>> weighted
+	>> def_disc_mut
+	>> inputs_d
+	>> results_d
+	>> wtc
+	>> ref_mutant
+	>> groups_number

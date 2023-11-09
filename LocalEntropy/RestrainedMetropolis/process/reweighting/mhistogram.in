@@ -1,0 +1,27 @@
+ntemp 18
+files
+results/data_T0.0171_g0.0_s0.dat 0.0171 2
+results/data_T0.0136_g0.0_s0.dat 0.0136 2
+results/data_T0.0116_g0.0_s0.dat 0.0116 2
+results/data_T0.0096_g0.0_s0.dat 0.0096 2
+results/data_T0.0080_g0.0_s0.dat 0.008 2
+results/data_T0.0064_g0.0_s0.dat 0.0064 2
+results/data_T0.0048_g0.0_s0.dat 0.0048 2
+results/data_T0.0032_g0.0_s2.dat 0.0032 2
+results/data_T0.0032_g0.0_s0.dat 0.0032 2
+results/data_T0.0032_g0.0_s1.dat 0.0032 2
+results/data_T0.0024_g0.0_s1.dat 0.0024 2
+results/data_T0.0024_g0.0_s0.dat 0.0024 2
+results/data_T0.0021_g0.0_s0.dat 0.0021 2
+results/data_T0.0016_g0.0_s1.dat 0.0016 2
+results/data_T0.0016_g0.0_s0.dat 0.0016 2
+results/data_T0.0011_g0.0_s0.dat 0.0011 2
+results/data_T0.0008_g0.0_s0.dat 0.0008 2
+results/data_T0.0008_g0.0_s1.dat 0.0008 2
+
+nohisto
+emin 0.0 
+ebin 0.005 
+tmin 0.00048 
+tbin 5e-05 
+ntbin 400 

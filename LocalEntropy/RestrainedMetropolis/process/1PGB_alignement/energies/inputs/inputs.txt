@@ -1,0 +1,9 @@
+inputs/1PGB_alignement.txt
+outputs/alignement_energies.txt
+1
+4.
+
+	>> input_file
+	>> output_file
+	>> device
+	>> distance_threshold

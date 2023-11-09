@@ -1,0 +1,23 @@
+1PGB
+MTYKLILNGKTLKGETTTEAVDAATAEKVFKQYANDNGVDGEWTYDDATKTFTVTE
+
+4
+inputs/Tgt_file.txt
+100_000
+../results
+1
+1
+0
+4.
+
+	>> protein_name
+	>> wt_sequence
+	>> ref_sequence
+	>> seed
+	>> Tgt_file
+	>> unique_length
+	>> results_dir
+	>> step
+	>> restart
+	>> device
+	>> distance_threshold

@@ -1,0 +1,25 @@
+1PGB
+MTYKLILNGKTLKGETTTEAVDAATAEKVFKQYANDNGVDGEWTYDDATKTFTVTE
+5
+10
+0.0032
+inputs/gmfile.txt
+100_000
+../results
+1
+5
+1
+4.
+
+	>> protein_name
+	>> wt_sequence
+	>> y
+	>> seed
+	>> T
+	>> gmfile
+	>> unique_length
+	>> results_dir
+	>> restart
+	>> step
+	>> device
+	>> distance_threshold
